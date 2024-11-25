@@ -1,0 +1,15 @@
+c:\Users\ninki\Desktop\C# projects\1\Calculator\bin\Debug\net8.0\Calculator.exe
+c:\Users\ninki\Desktop\C# projects\1\Calculator\bin\Debug\net8.0\Calculator.deps.json
+c:\Users\ninki\Desktop\C# projects\1\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+c:\Users\ninki\Desktop\C# projects\1\Calculator\bin\Debug\net8.0\Calculator.dll
+c:\Users\ninki\Desktop\C# projects\1\Calculator\bin\Debug\net8.0\Calculator.pdb
+c:\Users\ninki\Desktop\C# projects\1\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ninki\Desktop\C# projects\1\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+c:\Users\ninki\Desktop\C# projects\1\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+c:\Users\ninki\Desktop\C# projects\1\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+c:\Users\ninki\Desktop\C# projects\1\Calculator\obj\Debug\net8.0\Calculator.sourcelink.json
+c:\Users\ninki\Desktop\C# projects\1\Calculator\obj\Debug\net8.0\Calculator.dll
+c:\Users\ninki\Desktop\C# projects\1\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+c:\Users\ninki\Desktop\C# projects\1\Calculator\obj\Debug\net8.0\Calculator.pdb
+c:\Users\ninki\Desktop\C# projects\1\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+c:\Users\ninki\Desktop\C# projects\1\Calculator\obj\Debug\net8.0\ref\Calculator.dll
