@@ -1,0 +1,7 @@
+C:\Users\ninki\Desktop\C# projects\1\RNGGame\RNGGame\bin\Debug\RNGGame.exe.config
+C:\Users\ninki\Desktop\C# projects\1\RNGGame\RNGGame\bin\Debug\RNGGame.exe
+C:\Users\ninki\Desktop\C# projects\1\RNGGame\RNGGame\bin\Debug\RNGGame.pdb
+C:\Users\ninki\Desktop\C# projects\1\RNGGame\RNGGame\obj\Debug\RNGGame.csproj.AssemblyReference.cache
+C:\Users\ninki\Desktop\C# projects\1\RNGGame\RNGGame\obj\Debug\RNGGame.csproj.CoreCompileInputs.cache
+C:\Users\ninki\Desktop\C# projects\1\RNGGame\RNGGame\obj\Debug\RNGGame.exe
+C:\Users\ninki\Desktop\C# projects\1\RNGGame\RNGGame\obj\Debug\RNGGame.pdb
