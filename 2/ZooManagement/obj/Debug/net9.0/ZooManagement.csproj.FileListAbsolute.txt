@@ -1,0 +1,15 @@
+C:\Users\ninki\Desktop\C# projects\2\zoomanagement\obj\Debug\net9.0\ZooManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninki\Desktop\C# projects\2\zoomanagement\obj\Debug\net9.0\ZooManagement.AssemblyInfoInputs.cache
+C:\Users\ninki\Desktop\C# projects\2\zoomanagement\obj\Debug\net9.0\ZooManagement.AssemblyInfo.cs
+C:\Users\ninki\Desktop\C# projects\2\zoomanagement\obj\Debug\net9.0\ZooManagement.csproj.CoreCompileInputs.cache
+C:\Users\ninki\Desktop\C# projects\2\zoomanagement\obj\Debug\net9.0\ZooManagement.sourcelink.json
+C:\Users\ninki\Desktop\C# projects\2\zoomanagement\bin\Debug\net9.0\ZooManagement.exe
+C:\Users\ninki\Desktop\C# projects\2\zoomanagement\bin\Debug\net9.0\ZooManagement.deps.json
+C:\Users\ninki\Desktop\C# projects\2\zoomanagement\bin\Debug\net9.0\ZooManagement.runtimeconfig.json
+C:\Users\ninki\Desktop\C# projects\2\zoomanagement\bin\Debug\net9.0\ZooManagement.dll
+C:\Users\ninki\Desktop\C# projects\2\zoomanagement\bin\Debug\net9.0\ZooManagement.pdb
+C:\Users\ninki\Desktop\C# projects\2\zoomanagement\obj\Debug\net9.0\ZooManagement.dll
+C:\Users\ninki\Desktop\C# projects\2\zoomanagement\obj\Debug\net9.0\refint\ZooManagement.dll
+C:\Users\ninki\Desktop\C# projects\2\zoomanagement\obj\Debug\net9.0\ZooManagement.pdb
+C:\Users\ninki\Desktop\C# projects\2\zoomanagement\obj\Debug\net9.0\ZooManagement.genruntimeconfig.cache
+C:\Users\ninki\Desktop\C# projects\2\zoomanagement\obj\Debug\net9.0\ref\ZooManagement.dll
