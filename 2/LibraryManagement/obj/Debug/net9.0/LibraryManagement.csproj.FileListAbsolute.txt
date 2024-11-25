@@ -1,0 +1,15 @@
+C:\Users\ninki\Desktop\C# projects\2\librarymanagement\obj\Debug\net9.0\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninki\Desktop\C# projects\2\librarymanagement\obj\Debug\net9.0\LibraryManagement.AssemblyInfoInputs.cache
+C:\Users\ninki\Desktop\C# projects\2\librarymanagement\obj\Debug\net9.0\LibraryManagement.AssemblyInfo.cs
+C:\Users\ninki\Desktop\C# projects\2\librarymanagement\obj\Debug\net9.0\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\ninki\Desktop\C# projects\2\librarymanagement\obj\Debug\net9.0\LibraryManagement.sourcelink.json
+C:\Users\ninki\Desktop\C# projects\2\librarymanagement\bin\Debug\net9.0\LibraryManagement.exe
+C:\Users\ninki\Desktop\C# projects\2\librarymanagement\bin\Debug\net9.0\LibraryManagement.deps.json
+C:\Users\ninki\Desktop\C# projects\2\librarymanagement\bin\Debug\net9.0\LibraryManagement.runtimeconfig.json
+C:\Users\ninki\Desktop\C# projects\2\librarymanagement\bin\Debug\net9.0\LibraryManagement.dll
+C:\Users\ninki\Desktop\C# projects\2\librarymanagement\bin\Debug\net9.0\LibraryManagement.pdb
+C:\Users\ninki\Desktop\C# projects\2\librarymanagement\obj\Debug\net9.0\LibraryManagement.dll
+C:\Users\ninki\Desktop\C# projects\2\librarymanagement\obj\Debug\net9.0\refint\LibraryManagement.dll
+C:\Users\ninki\Desktop\C# projects\2\librarymanagement\obj\Debug\net9.0\LibraryManagement.pdb
+C:\Users\ninki\Desktop\C# projects\2\librarymanagement\obj\Debug\net9.0\LibraryManagement.genruntimeconfig.cache
+C:\Users\ninki\Desktop\C# projects\2\librarymanagement\obj\Debug\net9.0\ref\LibraryManagement.dll
