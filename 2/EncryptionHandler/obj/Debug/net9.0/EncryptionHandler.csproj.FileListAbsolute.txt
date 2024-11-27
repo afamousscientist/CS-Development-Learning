@@ -1,0 +1,15 @@
+C:\Users\ninki\Desktop\C# projects\2\encryptionhandler\obj\Debug\net9.0\EncryptionHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninki\Desktop\C# projects\2\encryptionhandler\obj\Debug\net9.0\EncryptionHandler.AssemblyInfoInputs.cache
+C:\Users\ninki\Desktop\C# projects\2\encryptionhandler\obj\Debug\net9.0\EncryptionHandler.AssemblyInfo.cs
+C:\Users\ninki\Desktop\C# projects\2\encryptionhandler\obj\Debug\net9.0\EncryptionHandler.csproj.CoreCompileInputs.cache
+C:\Users\ninki\Desktop\C# projects\2\encryptionhandler\obj\Debug\net9.0\EncryptionHandler.sourcelink.json
+C:\Users\ninki\Desktop\C# projects\2\encryptionhandler\bin\Debug\net9.0\EncryptionHandler.exe
+C:\Users\ninki\Desktop\C# projects\2\encryptionhandler\bin\Debug\net9.0\EncryptionHandler.deps.json
+C:\Users\ninki\Desktop\C# projects\2\encryptionhandler\bin\Debug\net9.0\EncryptionHandler.runtimeconfig.json
+C:\Users\ninki\Desktop\C# projects\2\encryptionhandler\bin\Debug\net9.0\EncryptionHandler.dll
+C:\Users\ninki\Desktop\C# projects\2\encryptionhandler\bin\Debug\net9.0\EncryptionHandler.pdb
+C:\Users\ninki\Desktop\C# projects\2\encryptionhandler\obj\Debug\net9.0\EncryptionHandler.dll
+C:\Users\ninki\Desktop\C# projects\2\encryptionhandler\obj\Debug\net9.0\refint\EncryptionHandler.dll
+C:\Users\ninki\Desktop\C# projects\2\encryptionhandler\obj\Debug\net9.0\EncryptionHandler.pdb
+C:\Users\ninki\Desktop\C# projects\2\encryptionhandler\obj\Debug\net9.0\EncryptionHandler.genruntimeconfig.cache
+C:\Users\ninki\Desktop\C# projects\2\encryptionhandler\obj\Debug\net9.0\ref\EncryptionHandler.dll
